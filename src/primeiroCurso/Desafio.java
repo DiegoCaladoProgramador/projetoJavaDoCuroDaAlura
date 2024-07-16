@@ -1,3 +1,5 @@
+package primeiroCurso;
+
 import java.util.Scanner;
 
 public class Desafio {
