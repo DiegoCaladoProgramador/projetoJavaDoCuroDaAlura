@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddc1de3c-08cd-467c-86e8-d4e3d23a0676" name="Changes" comment="Criado projeto java do curso do alura">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/MinhasPreferidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/modelos/Podcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/minhasmusicas/principal/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/Classificavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/FiltroRecomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Episodio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/Principal.java" afterDir="false" />
+    <list default="true" id="ddc1de3c-08cd-467c-86e8-d4e3d23a0676" name="Changes" comment="criar projeto do segundo curso do alura&#10;Java: aplicando a Orientação a Objetos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Condicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Desafio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Leitura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OutroLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/OutroLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +52,7 @@
     "Application.Main.executor": "Run",
     "Application.OutroLoop.executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.br.com.alura.minhasmusicas.principal.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -153,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721064546298</updated>
-      <workItem from="1721064547494" duration="33123000" />
+      <workItem from="1721064547494" duration="34502000" />
     </task>
     <task id="LOCAL-00001" summary="Criado projeto java do curso do alura">
       <option name="closed" value="true" />
@@ -163,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721079505741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="criar projeto do segundo curso do alura&#10;Java: aplicando a Orientação a Objetos">
+      <option name="closed" value="true" />
+      <created>1721156868764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721156868764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criado projeto java do curso do alura" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado projeto java do curso do alura" />
+    <MESSAGE value="criar projeto do segundo curso do alura&#10;Java: aplicando a Orientação a Objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="criar projeto do segundo curso do alura&#10;Java: aplicando a Orientação a Objetos" />
   </component>
 </project>
