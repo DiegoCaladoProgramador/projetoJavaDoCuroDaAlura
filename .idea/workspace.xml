@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddc1de3c-08cd-467c-86e8-d4e3d23a0676" name="Changes" comment="adicionar os códigos do novo curso da alura.&#10;Java: trabalhando com listas e coleções de dados">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/compras/modelos/CartaoDeCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/compras/modelos/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/compras/principal/principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
+    <list default="true" id="ddc1de3c-08cd-467c-86e8-d4e3d23a0676" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/buscador/modelos/ConsultaCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/buscador/modelos/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/buscador/modelos/GeradorDeArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/buscador/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/excecao/ErroDeConversaoDeAnoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primeiroProjeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/primeiroProjeto.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -60,6 +61,8 @@
     "Application.Main.executor": "Run",
     "Application.OutroLoop.executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.PrincipalComBusca.executor": "Run",
+    "Application.br.com.alura.buscador.principal.Principal.executor": "Run",
     "Application.br.com.alura.minhasmusicas.principal.Principal.executor": "Run",
     "Application.principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,33 +70,54 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/dependencias/gson-2.10.1.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.principal">
-    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primeiroCurso.Desafio" />
-      <module name="primeiroProjeto" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primeiroCurso.OutroLoop" />
-      <module name="primeiroProjeto" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.screenmatch.excecao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.br.com.alura.buscador.principal.Principal">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.Principal" />
       <module name="primeiroProjeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalComBusca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.PrincipalComBusca" />
+      <module name="primeiroProjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.alura.buscador.principal.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.buscador.principal.Principal" />
+      <module name="primeiroProjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.buscador.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.alura.buscador.principal.Principal" />
+        <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.principal" />
         <item itemvalue="Application.br.com.alura.minhasmusicas.principal.Principal" />
         <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Desafio" />
-        <item itemvalue="Application.OutroLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721064546298</updated>
-      <workItem from="1721064547494" duration="53551000" />
+      <workItem from="1721064547494" duration="71165000" />
     </task>
     <task id="LOCAL-00001" summary="Criado projeto java do curso do alura">
       <option name="closed" value="true" />
@@ -176,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721157957909</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adicionar os códigos do novo curso da alura.&#10;Java: trabalhando com listas e coleções de dados">
+      <option name="closed" value="true" />
+      <created>1721232555956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721232555956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
